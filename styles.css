@@ -716,11 +716,7 @@ p {
 
 /* ===== BREADCRUMBS ===== */
 
-.breadcrumbs {
-  background: #f9fafb;
-  border-bottom: 1px solid var(--border);
-  font-size: 14px;
-}
+.breadcrumbs { background: yellow; color: black; }
 
 .breadcrumbs .container {
   padding: 12px 0;
@@ -759,5 +755,6 @@ p {
 .breadcrumbs a:hover {
   text-decoration: underline;
 }
+
 
 
