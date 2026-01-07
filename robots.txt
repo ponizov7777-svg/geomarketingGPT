@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ponizov7777-svg.github.io/geomarketingGPT/sitemap.xml
